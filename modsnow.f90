@@ -1,6 +1,7 @@
 Copyright (C) [2016] Dr. Abror Gafurov, GFZ Helmholtz Centre for Geosciences
 
 Licensed under AGPL-3.0-only (GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007).
+https://spdx.org/licenses/AGPL-3.0-only.html
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
